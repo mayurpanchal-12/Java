@@ -18,7 +18,7 @@ class main{
   public static void main(String[] args) {
     solution s1 = new solution("mayur", 21);
 
-    // now by making vars of calsses private we can not acces then out side class;
+    // now by making vars of calsses private we can not acces them out side class;
     // s1.name = "xyz"; ---err
 
     // System.out.println(s1.age);  --err 
